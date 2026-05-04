@@ -1,5 +1,13 @@
 # Mario self-hosted web game (1 level)
 
+## Tài liệu dự án Loan Process (SRS)
+
+- **Google Docs / Word:** `docs/SRS_LoanProcessSystem_Final.docx` (template gốc).
+- **Bản Markdown:** `docs/SRS_LoanProcessSystem.md` (dễ chỉnh sửa, có thể copy vào Google Docs).
+- **Test case → Google Sheets:** `docs/test_cases_google_sheet.csv` — mở Google Sheets → **File → Import → Upload** → chọn file → Import.
+
+---
+
 Game platformer Mario-like 1 man choi, chay local tren web.
 Ban nay tap trung vao trai nghiem giong game platform co dien (quai vat, block hoi, power-up, nhac nen loop, timer).
 
