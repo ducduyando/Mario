@@ -1,10 +1,11 @@
 # Mario self-hosted web game (1 level)
 
-## Tài liệu dự án Loan Process (SRS)
+## Tài liệu SRS (game này)
 
-- **Google Docs / Word:** `docs/SRS_LoanProcessSystem_Final.docx` (template gốc).
-- **Bản Markdown:** `docs/SRS_LoanProcessSystem.md` (dễ chỉnh sửa, có thể copy vào Google Docs).
-- **Test case → Google Sheets:** `docs/test_cases_google_sheet.csv` — mở Google Sheets → **File → Import → Upload** → chọn file → Import.
+- **SRS (đặc tả yêu cầu):** `docs/SRS_MarioWebGame.md` — nội dung theo game Mario web 1 màn (thay bản mẫu Loan Process).
+- **Test case → Google Sheets:** `docs/test_cases_google_sheet.csv` — **File → Import → Upload** trên Google Sheets.
+
+*(Bản SRS mẫu “Loan Process” trước đây chỉ là ví dụ cấu trúc; không còn trong repo.)*
 
 ---
 
