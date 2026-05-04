@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(#7bc6ff, #e0f7ff);
+  color: #1f2937;
+}
+
+.container {
+  max-width: 980px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 0.75rem;
+}
+
+canvas {
+  border: 2px solid #111827;
+  border-radius: 6px;
+  background: #87ceeb;
+  display: block;
+}
+
+#hud {
+  margin-top: 0.75rem;
+  font-weight: 700;
+}
